@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KingMatthew101 and I am a high school student learning programming and video game development.
-     I'm currently working on small 2D games in Java and C#
+- 👋 Hi, I’m @KingMatthew101 and I am a college student majoring in Mechanical Engineering but also learning programming and video game development.
+     I'm currently working on small 2D games in Java and C# along with some other small projects
 
      I'm also a musician and have some experience in 3D graphical design and am interested in working with others in these fields to add to the games I develop.
 
